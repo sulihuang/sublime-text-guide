@@ -8,3 +8,5 @@
 感谢上帝，让我在最好的青春里遇见的最美的她。
 
 ![](http://7xix3g.com1.z0.glb.clouddn.com/15-5-12/26030416.jpg)
+
+[github地址](https://github.com/nicesu/sublime-text-guide)
