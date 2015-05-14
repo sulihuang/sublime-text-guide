@@ -17,5 +17,6 @@
    * [SublimeLinter](plug-in/sublimelinter.md)
    * [SideBarEnhancements](plug-in/sidebarenhancements.md)
    * [Evernote](plug-in/evernote.md)
+   * [HTML5](plug-in/html5.md)
 * [Tips](tips/README)
 

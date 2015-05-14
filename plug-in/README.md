@@ -31,3 +31,5 @@ Sublime有两种安装插件的方式：
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) 加强在侧栏目录树中右键的选项
 
 - [Evernote](https://packagecontrol.io/packages/Evernote) 用Sumlime写Markdown格式的笔记，同步到Evernote
+
+- [Evernote](https://packagecontrol.io/packages/Evernote) 用Sumlime写Markdown格式的笔记，同步到Evernote
