@@ -26,10 +26,9 @@ Sublime有两种安装插件的方式：
 
 -  [Emmet](https://packagecontrol.io/packages/Emmet) 提高HTML & CSS3编写效率
 
--  [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) 代码检测的工具
+-  [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) 强大的代码检测的工具
 
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) 加强在侧栏目录树中右键的选项
-
 - [Evernote](https://packagecontrol.io/packages/Evernote) 用Sumlime写Markdown格式的笔记，同步到Evernote
 
-- [Evernote](https://packagecontrol.io/packages/Evernote) 用Sumlime写Markdown格式的笔记，同步到Evernote
+- [DocBlockr](https://packagecontrol.io/packages/DocBlockr) 快速生成注释
